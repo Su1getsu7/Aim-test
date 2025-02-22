@@ -9,18 +9,18 @@ body {
 
 h1 {
     margin: 30px 40%;
-    background-color: rgba(29, 77, 1, 0.986);
+    background-color: rgba(0, 77, 177, 0.986);
     color: white;
 }
-.pedo {
+.bg1 {
     margin: 30px 40%;
-    background-color: rgba(29, 77, 1, 0.986);
+    background-color: rgba(0, 77, 177, 0.986);
     color: white;
 }
 
-.philia {
+.bg2 {
     margin: 30px 45%;
-    background-color: rgba(29, 77, 1, 0.986);
+    background-color: rgba(0, 77, 177, 0.986);
     color: white;
 }
 
@@ -30,7 +30,7 @@ h1 {
     width: 400px;
     height: 400px;
     margin: 20px auto;
-    border: 2px solid #333;
+    border: 10px solid #333;
     background-color: #e0f7fa;
     border-radius: 10px;
 }
